@@ -1,0 +1,32 @@
+#hot-product{
+    margin-top: 2rem;
+}
+.box-product{
+    border: solid 1px #ccc;
+}
+
+.box-product>div{
+    margin: 0.5rem auto;
+    width: 95%;
+}
+.product-bottom{
+    align-items: center;
+}
+.product-top .mo-ta{
+    background-color: rgb(2,177,2);
+    width: 100%;
+}
+
+.product-top button{
+    padding: 0.3rem 0.5rem;
+    border-radius: 6px;
+    background-color: #fff;
+    border: none;
+
+
+}
+
+.product-top .mo-ta>div{
+    width: 90%;
+    
+}
